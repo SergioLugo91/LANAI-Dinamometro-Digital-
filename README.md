@@ -30,8 +30,6 @@ LANAI Dinamómetro Digital es un sistema integral para la medición y análisis 
 1. **Hardware**: Un dinamómetro basado en Arduino que utiliza una celda de carga con amplificador HX711 y comunicación Bluetooth Low Energy (BLE).
 2. **Software**: Una aplicación Flutter multiplataforma que recibe datos del dinamómetro, los visualiza en tiempo real y almacena mediciones para análisis posterior.
 
-El sistema es ideal para profesionales de la salud, entrenadores deportivos, fisioterapeutas y cualquier persona interesada en monitorear y analizar la fuerza muscular de manera precisa y objetiva.
-
 ## ✨ Características
 
 ### 📱 Aplicación Flutter
